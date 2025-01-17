@@ -78,7 +78,7 @@ A big shoutout to our amazing team! 🌟
 ## 📥 How to Use
 
 1. Clone this repository:
-   git clone [https://github.com/your-repo-name](https://github.com/your-repo-name)
+   git clone [https://github.com/sams258/Big-Data-Analytics-Project](https://github.com/sams258/Big-Data-Analytics-Project)
 2. Install dependencies and set up Hadoop and PySpark.
 3. Run analysis scripts (Jupyter notebook) and visualize insights.
 
