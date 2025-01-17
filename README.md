@@ -49,10 +49,10 @@ A big shoutout to our amazing team! 🌟
 
 - **Sam El Saati** 🎯
   - Specialization: Feature engineering & data cleaning, system optimization, and sentiment analysis.
-  - 🌐 GitHub: [github.com/samelsaati](https://github.com/samelsaati)
+  - 🌐 GitHub: [github.com/sams258](https://github.com/sams258)
 - **Mohamad Alloush** 🌍
   - Specialization: Data cleaning & feature engineering, visualization, and storytelling through analytics.
-  - 🌐 GitHub: [github.com/mohamadalloush](https://github.com/mohamadalloush)
+  - 🌐 GitHub: [github.com/alloush95](https://github.com/alloush95)
 
 ---
 
